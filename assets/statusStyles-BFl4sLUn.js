@@ -1,0 +1,1 @@
+var e={booked:`bg-amber-100 text-amber-700`,issued:`bg-emerald-100 text-emerald-700`,reissued:`bg-sky-100 text-sky-700`,cancelled:`bg-rose-100 text-rose-700`,refunded:`bg-violet-100 text-violet-700`};export{e as t};
