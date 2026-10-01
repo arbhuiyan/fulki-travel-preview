@@ -1,0 +1,1 @@
+import{H as e}from"./useI18n-Cv2cJckz.js";import{t}from"./index-CqsaR80X.js";import{t as n}from"./AirlineEditor-CarKdHfV.js";var r=e();function i(){let e=t.useNavigate();return(0,r.jsx)(n,{onDone:()=>e({to:`/settings/airlines`})})}export{i as component};
