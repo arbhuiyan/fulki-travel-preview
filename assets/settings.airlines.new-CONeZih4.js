@@ -1,0 +1,1 @@
+import{X as e}from"./useI18n-CDYF-me5.js";import{s as t}from"./index-D3-WmTHM.js";import{r as n}from"./Access-CRTwYSt1.js";import{t as r}from"./AirlineEditor-BRH-IJ3m.js";var i=e();function a(){let e=t.useNavigate();return(0,i.jsx)(r,{onDone:()=>e({to:`/settings/airlines`})})}var o=()=>(0,i.jsx)(n,{permission:`settings.airlines`,children:(0,i.jsx)(a,{})});export{o as component};

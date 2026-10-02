@@ -1,0 +1,1 @@
+import{o as e,s as t}from"./useI18n-CDYF-me5.js";var n=e=>t(`paymentMethod.${e}`,e),r=t=>t.method===`refund`&&t.via?e(`paymentMethod.refundVia`,{method:n(t.via)}):n(t.method);export{r as n,n as t};
