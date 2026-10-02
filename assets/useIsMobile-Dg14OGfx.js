@@ -1,0 +1,1 @@
+import{Z as e,et as t}from"./useI18n-BHYHTLbh.js";var n=t(e(),1),r=`(max-width: 767px)`,i=()=>typeof window<`u`&&window.matchMedia?window.matchMedia(r):null,a=e=>{let t=i();return t?.addEventListener(`change`,e),()=>t?.removeEventListener(`change`,e)};function o(){return(0,n.useSyncExternalStore)(a,()=>i()?.matches??!1,()=>!1)}export{o as t};
